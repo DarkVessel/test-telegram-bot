@@ -1,0 +1,6 @@
+{
+  "promoCodes": {
+    "checkPromoCodeForLength": true,
+    "numberOfCharacters": 24
+  }
+}
