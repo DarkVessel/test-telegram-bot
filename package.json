@@ -1,0 +1,21 @@
+{
+  "name": "notduck",
+  "version": "0.1.0",
+  "description": "Test bot",
+  "main": "./build/index.js",
+  "repository": "https://github.com/DarkVessel/test-telegram-bot",
+  "author": "Жора Змейкин",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@types/node": "^18.8.3"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "typescript": "*"
+  }
+}
