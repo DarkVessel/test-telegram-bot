@@ -1,1 +1,8 @@
-{}
+{
+    "test_promocode": {
+        "discount": 40
+    },
+    "test_promocode2": {
+        "discount": 60
+    }
+}
